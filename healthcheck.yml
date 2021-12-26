@@ -30,6 +30,4 @@ spec:
             port: nodejs-port
           initialDelaySeconds: 15
           timeoutSeconds: 30
-© 2021 GitHub, Inc.
-Terms
-Privacy
+
